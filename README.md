@@ -7,7 +7,7 @@
 git clone https://github.com/slickwit/slickwit-omb-theme.git slickwit
 ```
 
-In order to use this theme you need to put it in the .oh-my-bash directory.
+In order to use this theme you need to put it in the *.oh-my-bash/themes* directory.
 
 _[Oh My BASH!](https://ohmybash.nntoan.com/)_
 
