@@ -4,7 +4,7 @@
 
 Clone the repository:
 
-```bash
+```shell
 git clone https://github.com/slickwit/slickwit-omb-theme.git
 ```
 
@@ -28,6 +28,17 @@ Features:
 
 - [x] Display Date & Time on open.
 - [x] Display current Node Version on open.
-- [x] Display time + current path + current git branch (if directory have git)
+- [x] Display time + current path + current git branch (if directory is a Git repository)
 - [x] Display a random emoji
 - [x] Stay in the same directory when opening a new tab
+
+
+## 📝 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 👤 Author
+
+Kenneth Ryan Dy
+
+- GitHub: [@slickwit](https://github.com/slickwit)
