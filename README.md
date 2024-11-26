@@ -2,8 +2,7 @@
 
 ![Slickwit](/slickwit-dark.png)
 
-Clone the repository:
-
+## Clone the repository inside *.oh-my-bash/themes* directory:
 ```shell
 git clone https://github.com/slickwit/slickwit-omb-theme.git slickwit
 ```
