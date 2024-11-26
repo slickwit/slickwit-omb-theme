@@ -23,6 +23,8 @@ function __slickwit_header() {
 echo $(__slickwit_header)
 if [ -d "$HOME/AppData/Roaming/nvm" ]; then
  e_bold "node version: ${_omb_term_underline_lime}$(nvm current)${_omb_term_reset}";
+else
+ e_bold "node version: ${_omb_term_underline_lime}$(node -v)${_omb_term_reset}";
 fi
 
 
