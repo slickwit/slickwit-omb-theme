@@ -5,7 +5,7 @@
 Clone the repository:
 
 ```shell
-git clone https://github.com/slickwit/slickwit-omb-theme.git
+git clone https://github.com/slickwit/slickwit-omb-theme.git slickwit
 ```
 
 In order to use this theme you need to put it in the .oh-my-bash directory.
